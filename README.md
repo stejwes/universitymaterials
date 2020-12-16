@@ -1,8 +1,8 @@
 # universitymaterials
-<h1>Code written in university courses.</h1>  
+<h2>Code written in university courses.</h2>  
 
 <h3>Projects added so far:</h3>  
 
 <ul>
-  <li>CabFareAndCarWash</li>
+  <li>CabFareAndCarWash, written in Java using Android Studio</li>
 </ul>
