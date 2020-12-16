@@ -2,7 +2,7 @@
 <h2>(Unfortunately, Github made me .zip it.)</h2>
 
 This is a gif that displays the functionality of the "Car Wash" class of the application.  
-The carwash selection consists of two radio buttons, two different package types, and a discount condition that is met when over 10 washes are bought. 
+The carwash selection consists of two radio buttons, two different package types. When over 10 washes are bought, a toast message appears at the bottom of the screen and a discount is applied. 
 
 ![This is a gif that shows the functionality of the "Carwash" section of the application.](res/carwash.gif)  
 
