@@ -6,6 +6,6 @@ The carwash selection consists of two radio buttons with two different package t
 ![This is a gif that shows the functionality of the "Carwash" section of the application.](res/carwash.gif)  
 
 This is a gif that shows the functionality of the "Cab Fare" class of the application.  
-The cab fare section is more self explanatory, the base rate plus the multiplier times the miles travelled is returned, which is also based on the type of vehicle chosen. 
+The cab fare section is more self explanatory, the base rate plus the multiplier times the miles travelled is returned, based on the type of vehicle chosen. 
 
 ![This is a gif that shows the functionality of the "Cab Fare" section of the application.](res/cabfare.gif)
